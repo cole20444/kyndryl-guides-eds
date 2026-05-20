@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/cole20444/kyndryl-guides-eds/main/docs
+    url: https://dita-franklin-worker.adobeaem.workers.dev/cole20444/pop-guides-eds/main/docs
     type: markup
 
